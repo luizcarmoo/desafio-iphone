@@ -1,5 +1,5 @@
 De antemão peço perdão de joelhos a todos os programadores java por essa monstruosidade de código hahahaha 
-Este foi o meu primeiro contato com a linguagem, antes dela tive contato apenas com JS, e mesmo assim muito pouco... Ainda estou começando nesse mundo explêndido da programação ainda não manjo muito e isso foi tudo que consegui fazer do desafio que me foi proposto com meu atual nível de conhecimento...
+Este foi o meu primeiro contato com a linguagem, antes dela tive contato apenas com JS,e TS (e mesmo assim muito pouco)... Ainda estou começando nesse mundo explêndido da programação ainda não manjo muito e isso foi tudo que consegui fazer do desafio que me foi proposto com meu atual nível de conhecimento...
 
 <h3>Descrição do Desafio</h3>
 
